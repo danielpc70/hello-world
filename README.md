@@ -3,6 +3,7 @@
 Hello!
 
 You can call me PatC. I am learning all I need to know about GitHub.
-Attempting another update to the file.
-And a third update.
-And a fourth update.
+My recent attempt to update this file.
+
+I love :coffee:, :dancer:, and :cd:.
+I love to eat :haiti:, :jamaica:, and :thailand: food.
