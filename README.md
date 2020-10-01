@@ -10,5 +10,7 @@ I love to eat food from :haiti:, :jamaica:, :greece:, and :thailand:.
 
 I enjoy listening to music, dancing, singing (although I am not
 that great of singer), reading mostly fictional books, binge watching 
-documentaries and comedies, and riding my bike.
+documentaries, stand-up comedies, and dramas/thrillers.
+
+So far learning **GitHub** is challenging!
 
