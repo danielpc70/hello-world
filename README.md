@@ -12,5 +12,5 @@ I enjoy listening to music, dancing, singing (although I am not
 that great of singer), reading mostly fictional books, binge watching 
 documentaries, stand-up comedies, and dramas/thrillers.
 
-So far learning **GitHub** is challenging!
+So far learning **GitHub** is challenging!  But I am up to the challege!
 
