@@ -14,3 +14,8 @@ documentaries, stand-up comedies, and dramas/thrillers.
 
 So far learning **GitHub** is challenging!  But I am up to the challege!
 
+I think I am getting this now.  resid2 is a different branch from resedit.  Therefore
+the changes I make on resedit does not affect resedit2.
+
+But at the end all of them will merge to main document.
+
