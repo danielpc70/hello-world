@@ -12,3 +12,5 @@ I enjoy listening to music, dancing, singing (although I am not
 that great of singer), reading mostly fictional books, binge watching 
 documentaries and comedies, and riding my bike.
 
+This is another resedit.  The step I am forgeting is making a commit before 
+a pull at least that is what I think.
