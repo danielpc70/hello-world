@@ -10,5 +10,14 @@ I love to eat food from :haiti:, :jamaica:, :greece:, and :thailand:.
 
 I enjoy listening to music, dancing, singing (although I am not
 that great of singer), reading mostly fictional books, binge watching 
-documentaries and comedies, and riding my bike.
+documentaries, stand-up comedies, and dramas/thrillers.
+
+So far learning **GitHub** is challenging!  But I am up to the challege!
+
+I think I am getting this now.  resid2 is a different branch from resedit.  Therefore
+the changes I make on resedit does not affect resedit2.
+
+But at the end all of them will merge to main document.
+
+I update this file for the third or fourth time.
 
